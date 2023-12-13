@@ -1,5 +1,4 @@
 # Intrusion-Detection-System-by-ML
-# Network Intrusion Detection System (NIDS) using Machine Learning
 
 ## Overview
 
@@ -39,7 +38,7 @@ To run the notebook locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HamzaFarooqi200/your-repository.git
+   git clone https://github.com/HamzaFarooqi200/Intrusion-Detection-System-by-ML
    cd your-repository
    ```
 
